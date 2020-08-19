@@ -1,0 +1,96 @@
+* {
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font: normal 16pt Arial;
+    background: #3b8ec5;
+}
+
+header {
+    color: #FFF;
+    text-align: center;
+}
+
+header h1 {
+    margin: 30px 0px;
+    font-size: 50px;
+    line-height: 60px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    background: #ffffff;
+    border-radius: 20px;
+    padding: 30px;
+    width: 400px;
+    margin: 0 auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.445);
+}
+
+section div {
+    text-align: center;
+    padding: 10px;
+}
+
+section h2 {
+    margin-bottom: 10px;
+    font-size: 22px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section #txtyear {
+    border: 1px solid #707070;
+    border-radius: 4px;
+    list-style: none;
+    font-size: 18px;
+}
+
+section #send_date {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+section p {
+    margin: 15px 0px;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: lighter;
+}
+
+section label {
+    font-size: 17px;
+}
+
+section #button {
+    border: 1px solid #0c0e0f;
+    padding: 7px 15px;
+    border-radius: 7px;
+    background: none;
+    font-size: 16px;
+    color: #000000;
+    cursor: pointer;
+}
+
+section #button:hover {
+    background: #0c0e0f;
+    color: #FFF;
+}
+
+footer {
+    color: #FFF;
+    text-align: center;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+.text {
+    font-size: 22px;
+    line-height: 50px;
+    font-weight: normal;
+}
