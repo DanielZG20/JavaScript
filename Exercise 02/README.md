@@ -1,7 +1,7 @@
 # Exercício 02 de JavaScript
 
 
-## Este pequeno exercício verifica a idade da pessoa
+## Este pequeno exercício é um verificador de idade
 
 #### Bom este pequeno programa
 Começa pedindo o ano de nascimento do **usuário**, **se o usuário** tentar calcular sem colocar um valor ou deixando em branco, aparecerá um **`alert`** avisando, que a idade mínima é de 1 ano.
