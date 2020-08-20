@@ -18,6 +18,8 @@ O **JavaScript** verificará o valor do **`<input>`** do **`type="radio"`**, qua
 
 E jogamos dentro de uma **`<div>`** do **HTML** a resposta que encontrou o **gender** com **age** anos.
 
+&nbsp;
+
 É bem simples o **programa**, mas pode ser de extrema ajuda, obrigado a todos, um **FORTE** **abraço**
 
 ### Use a vontade os exercícios para treinar e compreender, vamos interagir !
