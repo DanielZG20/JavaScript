@@ -19,3 +19,15 @@ O **JavaScript** verificará o valor do **`<input>`** do **`type="radio"`**, qua
 E jogamos dentro de uma **`<div>`** do **HTML** a resposta que encontrou o **gender** com **age** anos.
 
 É bem simples o **programa**, mas pode ser de extrema ajuda, obrigado a todos, um **FORTE** **abraço**
+
+### Use a vontade os exercícios para treinar e compreender, vamos interagir !
+
+Me chamo Daniel Zanoni Garcia, sou um dos donos da página [Dev_Hours](https://www.instagram.com/dev_hours) no instagram, apaixonado por novas tecnologias desde sempre, atualmente focado para o desenvolvimento web.
+
+#### Redes sociais
+
+[Linkedin](https://www.linkedin.com/in/daniel-zanoni-garcia)
+
+[GitHub](https://github.com/DanielZG20)
+
+[Dev_Hours](https://www.instagram.com/dev_hours)
