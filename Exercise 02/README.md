@@ -1,1 +1,1 @@
-# Exercise 02 de JavaScript
+# Exercício 02 de _JavaScript_
