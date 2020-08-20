@@ -18,7 +18,7 @@ function check() {
 
         if (formSex[0].checked) { /* Verificando se a pessoa marcou a primeira opção do nosso input do tipo radio */
             gender = 'Male' // Se foi a primeira ela é do sexo masculino
-              if (age === 2020 || age == 0) { // Se a idade for = 2020 ou = 0 então vai avisar um erro
+              if (age === 2020 || age === 0) { // Se a idade for = 2020 ou = 0 então vai avisar um erro
                 alert('Make sure your data, try again ;)')
               }
               else if (age >= 1 && age <= 12) { //Verificando se a idade está entre 1 e 12
@@ -36,7 +36,7 @@ function check() {
        }
         else if (formSex[1].checked) { /* Verificando se a pessoa marcou a segunda opção do nosso input do tipo radio */
           gender = 'Female' // Se foi a segunda ela é do sexo feminino
-            if (age === 2020 || age == 0) { // Se a idade for = 2020 ou = 0 então vai avisar um erro
+            if (age === 2020 || age === 0) { // Se a idade for = 2020 ou = 0 então vai avisar um erro
               alert('Make sure your data, try again ;)')
             }
             else if (age >= 1 && age <= 12) { //Verificando se a idade está entre 1 e 12
