@@ -23,11 +23,11 @@
 
 ## Sobre este repositório
 
-Neste repositório de **JavaScript** estou aprendendo diversos exercícios bem simples e divertidos da linguagem **JavaScript**, espero que seja útil também no seu aprendizado e desenvolvimento e também me ajudar no meu aprendizado, haha, sempre é bom dividir conhecimento com diversos tipos de pessoas.
+Neste repositório de **JavaScript** estou aprendendo diversos exercícios bem simples e divertidos da linguagem **JavaScript**, e quero dividir este **meu pequeno aprendizado** para o aprendizado de outros **programadores**, espero que seja útil também no seu aprendizado e desenvolvimento, sempre é bom dividir conhecimento com diversos tipos de pessoas. Boa sorte, e **um forte abraço** 
 
 ### Use a vontade os exercícios para treinar e compreender, vamos interagir !
 
-Me chamo Daniel Zanoni Garcia, sou um dos donos da página [Dev_Hours](https://www.instagram.com/dev_hours) no instagram, apaixonado por novas tecnologias desde sempre, atualmente focado para o desenvolvimento web.
+Me chamo [**Daniel Zanoni Garcia**](https://www.linkedin.com/in/daniel-zanoni-garcia), sou um dos donos da página [Dev_Hours](https://www.instagram.com/dev_hours) no instagram, apaixonado por novas tecnologias desde sempre, atualmente focado para o desenvolvimento web.
 
 #### Redes sociais
 
