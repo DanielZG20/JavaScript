@@ -1,10 +1,8 @@
 # Let's learning JavaScript?
 
-### Por que __JavaScript__ ?
+## Por que __JavaScript__ ?
 
-Citarei algumas vantagens de se utilizar **JavaScript**
-
-## Vantagens
+### Vantagens
 * Item 1
 * Item 2
 * Item 3
