@@ -1,9 +1,9 @@
 # Let's learning JavaScript?
 
-## Por que __JavaScript__ ?
+## Por que aprender JavaScript ?
 
 ### Vantagens
-* Item 1
+* **JavaScript** é uma linguagem **FULL STACK** ou seja, ela é utilizada tanto para o **Front-End** quanto para o **Back-End** e também para o **Mobile**.
 * Item 2
 * Item 3
 
