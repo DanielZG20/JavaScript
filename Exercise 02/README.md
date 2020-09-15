@@ -1,6 +1,5 @@
 # Exercício 02 de JavaScript
 
-
 ## Este pequeno exercício é um verificador de idade
 
 #### Bom este pequeno programa
