@@ -27,7 +27,7 @@ Neste repositório de **JavaScript** estou aprendendo diversos exercícios bem s
 
 ### Use a vontade os exercícios para treinar e compreender, vamos interagir !
 
-Me chamo [**Daniel Zanoni Garcia**](https://www.linkedin.com/in/daniel-zanoni-garcia), sou um dos donos da página [Dev_Hours](https://www.instagram.com/dev_hours) no instagram, apaixonado por novas tecnologias desde sempre, atualmente focado para o desenvolvimento web.
+Me chamo [**Daniel Zanoni Garcia**](https://www.linkedin.com/in/daniel-zanoni-garcia), sou um dos donos da página [**Dev_Hours**](https://www.instagram.com/dev_hours) no instagram, apaixonado por novas tecnologias desde sempre, atualmente focado para o desenvolvimento web.
 
 #### Redes sociais
 
@@ -36,3 +36,5 @@ Me chamo [**Daniel Zanoni Garcia**](https://www.linkedin.com/in/daniel-zanoni-ga
 [GitHub](https://github.com/DanielZG20)
 
 [Dev_Hours](https://www.instagram.com/dev_hours)
+
+#### Abraços.
