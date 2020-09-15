@@ -23,6 +23,7 @@
 Se você é **iniciante**, e não sabe com qual **linguagem de programação** deve começar, já tem uma boa opção !.
 
 ## Sobre este repositório
+
 Neste repositório de **JavaScript** estou aprendendo diversos exercícios bem simples e divertidos da linguagem **JavaScript**, espero que seja útil também no seu aprendizado e desenvolvimento e também me ajudar no meu aprendizado, haha, sempre é bom dividir conhecimento com diversos tipos de pessoas.
 
 ### Use a vontade os exercícios para treinar e compreender, vamos interagir !
