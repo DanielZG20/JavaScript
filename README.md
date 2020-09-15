@@ -19,8 +19,7 @@
 
 * Faz com que as páginas na **internet** sejam mais dinâmicas e interativas com o usuário.
 
-
-### Se você é **iniciante**, e não sabe com qual **linguagem de programação** deve começar, já tem uma boa opção !.
+#### Se você é **iniciante**, e não sabe com qual **linguagem de programação** deve começar, já tem uma boa opção !.
 
 ## Sobre este repositório
 
