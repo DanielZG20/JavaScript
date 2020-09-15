@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <title>Calculator</title>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <link rel='stylesheet' type='text/css' media='screen' href='index.css'>
+</head>
+<body>
+
+  <section>
+    <main id="Main">
+      <h1> Simple Calculator <br> With HTML5, CSS3 and JS </h1>
+      <header> Calculator </header>
+      
+      <div id="res"></div>
+
+      <div class="content-01">
+        <!-- First Column -->
+        <div class="effect content-01-child" onclick="insertValue('+')"> <p> + </p> </div>
+        <div class="effect content-01-child" onclick="insertValue('-')"> <p> - </p> </div>
+        <div class="effect content-01-child" onclick="insertValue('*')"> <p> * </p> </div>
+        <div class="effect content-01-child" onclick="insertValue('/')"> <p> / </p> </div>
+        <!-- End Column -->
+        <div class="effect content-01-child" onclick="insertValue(7);"> <p> 7 </p> </div>
+        <div class="effect content-01-child" onclick="insertValue(8)"> <p> 8 </p> </div>
+        <div class="effect content-01-child" onclick="insertValue(9)"> <p> 9 </p> </div>
+        <div class="effect content-01-child"> <a href="https://github.com/DanielZG20" target="__blank"> <img src="img/github.png" alt="GitHub" ></a></div>
+        <!-- Second Column -->
+        <div class="effect content-01-child" onclick="insertValue(4)"> <p> 4 </p> </div>
+        <div class="effect content-01-child" onclick="insertValue(5)"> <p> 5 </p> </div>
+        <div class="effect content-01-child" onclick="insertValue(6)"> <p> 6 </p> </div>
+        <div class="effect content-01-child"> <a href="https://www.linkedin.com/in/daniel-zanoni-garcia/" target="__blank"> <img src="img/linkedin.png" alt="Linkedin"></a></div>
+        <!-- End Column -->
+        <div class="effect content-01-child" onclick="insertValue(1)"> <p> 1</p> </div>
+        <div class="effect content-01-child" onclick="insertValue(2)"> <p> 2 </p> </div>
+        <div class="effect content-01-child" onclick="insertValue(3)"> <p> 3 </p> </div>
+        <div class="effect content-01-child"> <a href="https://www.instagram.com/dev_hours/" target="__blank"> <img src="img/instagram.png" alt="Instagram"></a></div>
+        <!-- Third Column -->
+        <div class="effect content-01-child" onclick="insertValue(0)"> <p> 0 </p> </div>
+        <div class="effect content-01-child" onclick="calc()"> <p> = </p> </div>
+        <div class="effect content-01-child" onclick="insertValue('.')"> <p> . </p> </div>
+        <div class="effect content-01-child content-01-child-clear" onclick="reset()"> <p> DEL </p> </div>
+        <!-- End Column -->
+      </div>
+    </main>
+  </section>
+  
+  <script src='index.js'></script>
+</body>
+</html>
