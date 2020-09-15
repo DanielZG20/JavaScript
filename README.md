@@ -18,6 +18,8 @@
 
 #### Se você é **iniciante**, e não sabe com qual **linguagem de programação** deve começar, já tem uma boa opção !.
 
+##### Dicas: Para absorver o máximo da linguagem aconselho também a estudar HTML5 & CSS3.
+
 ## Sobre este repositório
 
 Neste repositório de **JavaScript** estou aprendendo diversos exercícios bem simples e divertidos da linguagem **JavaScript**, e quero dividir este **meu pequeno aprendizado** para o aprendizado de outros **programadores**, espero que seja útil também no seu aprendizado e desenvolvimento, sempre é bom dividir conhecimento com diversos tipos de pessoas. Boa sorte, e **um forte abraço** 
