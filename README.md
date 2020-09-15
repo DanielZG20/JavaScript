@@ -14,9 +14,6 @@
 
 * **JavaScript** é extremamente **leve** e **performático**, se comparado a outras linguagens de programação.
 
-* **Erros de programação** são mais **fáceis** de **encontrar** e **corrigir**, pois o console do navegador lhe guiará... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-(*OBS: Erros de programação & sintaxe, e não de lógica !!!*)
-
 * Faz com que as páginas na **internet** sejam mais dinâmicas e interativas com o usuário.
 
 #### Se você é **iniciante**, e não sabe com qual **linguagem de programação** deve começar, já tem uma boa opção !.
