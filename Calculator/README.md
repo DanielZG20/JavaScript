@@ -4,4 +4,4 @@
 
 #### Bom o código é bem simples e limpo
 
-Temos a váriavel **`number`**
+Temos iniciamos com um *array* **`number`**
