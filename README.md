@@ -4,8 +4,8 @@
 
 ### Vantagens
 * **JavaScript** é uma linguagem **FULL STACK** ou seja, ela é utilizada tanto para o **Front-End** quanto para o **Back-End** e também para o **Mobile**.
-* Item 2
-* Item 3
+* **JavaScript** é uma linguagem que roda em navegador, todos os navegadores tem algum tipo de motor dentro, e estes motores, são capaz de interpretar a linguagem.
+* Com sua **sintaxe** extremamente amigável e fácil a **curva de aprendizado**, é um dos principais motivos para utilizar
 
 
 Se você é iniciante, e não sabe com qual linguagem de programação deve começar, já tem uma boa opção, outro fator também que ajuda faz o **Javascript** ser mais amigável com quem está iniciando é pelo fato, de rodar em navegador, ou seja no motor de cada navegador, é muito mais fácil o iniciante começar a codar, e ver em tempo real oque está acontecendo na tela, ou seja uma programação com resposta imediata.
