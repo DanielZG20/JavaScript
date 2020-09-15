@@ -3,16 +3,19 @@
 ## Por que aprender JavaScript ?
 
 ### Vantagens
+
+* Entre as mais populares, é a linguagem de programação mais **fácil** de se **aprender**.
+
 * **JavaScript** é uma linguagem **FULL STACK** ou seja, ela é utilizada tanto para o **Front-End** quanto para o **Back-End** e também para o **Mobile**.
 
 * **JavaScript** é uma linguagem que pode ser interpretada pela **engine** do próprio **navegador** ou seja, não necessariamente precisa de um compilador para a linguagem
 
-* **Erros de programação** são mais **fáceis** de **encontrar** e **corrigir**, pois o console do navegador lhe guiará... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-(*OBS: Erros de programação, sintaxe e não de lógica !!!*)
-
 * Com sua **sintaxe** extremamente amigável e fácil, sua **curva de aprendizado**, se torna um dos principais motivos para se utilizar.
 
-* Extremamente **leve** e **performática**, se comparado a outras linguagens de programação.
+* **JavaScript** é extremamente **leve** e **performático**, se comparado a outras linguagens de programação.
+
+* **Erros de programação** são mais **fáceis** de **encontrar** e **corrigir**, pois o console do navegador lhe guiará... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+(*OBS: Erros de programação & sintaxe, e não de lógica !!!*)
 
 * Faz com que as páginas na **internet** sejam mais dinâmicas e interativas com o usuário.
 
