@@ -12,4 +12,22 @@ Após a concatenação a função escreverá na tela dentro da nossa div **`<div
 
 A segunda função chamada de **reset** ela resetará a váriavel **numbers** e a nossa **`<div>`** deixará sem os dados inserida nela.
 
-A terceira e função chamada de **calc** acontecerá um **`if`** verificando se a váriavel **result** está vazia **SE SIM**, **ENTÃO** a váriavel **result** receberá a função **`eval`** do próprio *_Javascript_* passando como paramêtro a nossa váriavel **numbers** o *_Javascript_* fará a operação e enviará o resultado para a nossa váriavel **result** com isso colocamos dentro da nossa **`<div`>** **res** a váriavel **result**. se nossa váriavel **result** estiver com algum valor dentro acontecerá o else, e ficará o sempre nele até que o usuário clique em DEL, para limpar as nossas váriaveis voltando prá lógica: **SE NÃO**, **ENTÃO**
+A terceira e função chamada de **calc** acontecerá um **`if`** verificando se a váriavel **result** está vazia **SE SIM**, **ENTÃO** a váriavel **result** receberá a função **`eval`** do próprio *_Javascript_* passando como paramêtro a nossa váriavel **numbers** o *_Javascript_* fará a operação e enviará o resultado para a nossa váriavel **result** com isso colocamos dentro da nossa **`<div`>** **res** a váriavel **result**. se nossa váriavel **result** estiver com algum valor dentro acontecerá o else, e ficará o sempre nele até que o usuário clique em DEL, para limpar as nossas váriaveis voltando prá lógica: **SE NÃO**, **ENTÃO** a váriavel **result** também fará a mesma conta que fizemos no **`if`** chamamos a função **`eval`** e passamos como paramêtros a nossa variável **numbers** porém, agora a nossa váriavel **numbers** vai receber a váriavel **result** e escreveremos na nossa **`<div>`** **res** a váriavel **numbers** com o valor atualizado.
+
+Esta forma do **`if`** e **`else`** pode parecer um pouco confuso no começo, mas se não usarmos a nossa **`<div>`** **res** sempre vai mostrar por exemplo: (5+5+3+2) e funcionará a conta, vai ser feita porém, ficará muito 'suja' nossa tela, fazendo aquela condição, resetaremos essa nossa **`<div>`** passando só os novos valores ou seja ao invés de ficar (5+5+3+2) ficará (5+5 = 10) e dps que fazer +3, não ficará (5+5+3) ficará (10+3) e assim por diante.
+
+Espero ter ajudado de alguma forma até a próxima.
+
+É bem simples o **programa**, mas pode ser de extrema ajuda, obrigado a todos, um **FORTE** **abraço**
+
+### Use a vontade os exercícios para treinar e compreender, vamos interagir !
+
+Me chamo Daniel Zanoni Garcia, sou um dos donos da página [Dev_Hours](https://www.instagram.com/dev_hours) no instagram, apaixonado por novas tecnologias desde sempre, atualmente focado para o desenvolvimento web.
+
+#### Redes sociais
+
+[Linkedin](https://www.linkedin.com/in/daniel-zanoni-garcia)
+
+[GitHub](https://github.com/DanielZG20)
+
+[Dev_Hours](https://www.instagram.com/dev_hours)
