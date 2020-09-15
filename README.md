@@ -20,8 +20,9 @@
 * Faz com que as páginas na **internet** sejam mais dinâmicas e interativas com o usuário.
 
 
-Se você é iniciante, e não sabe com qual linguagem de programação deve começar, já tem uma boa opção, outro fator também que ajuda faz o **Javascript** ser mais amigável com quem está iniciando é pelo fato, de rodar em navegador, ou seja no motor de cada navegador, é muito mais fácil o iniciante começar a codar, e ver em tempo real oque está acontecendo na tela, ou seja uma programação com resposta imediata.
+Se você é **iniciante**, e não sabe com qual **linguagem de programação** deve começar, já tem uma boa opção !.
 
+## Sobre este repositório
 Neste repositório de **JavaScript** estou aprendendo diversos exercícios bem simples e divertidos da linguagem **JavaScript**, espero que seja útil também no seu aprendizado e desenvolvimento e também me ajudar no meu aprendizado, haha, sempre é bom dividir conhecimento com diversos tipos de pessoas.
 
 ### Use a vontade os exercícios para treinar e compreender, vamos interagir !
