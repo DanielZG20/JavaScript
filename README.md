@@ -7,7 +7,7 @@
 
 * **JavaScript** é uma linguagem que pode ser interpretada pela **engine** do próprio **navegador** ou seja, não necessariamente precisa de um compilador para a linguagem
 
-* **Erros de programação** são mais **fáceis** de **encontrar** e **corrigir**, pois o console do navegador lhe guiará... &nbsp; &nbsp; &nbsp;
+* **Erros de programação** são mais **fáceis** de **encontrar** e **corrigir**, pois o console do navegador lhe guiará... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 (*OBS: Erros de programação, sintaxe e não de lógica !!!*)
 
 * Com sua **sintaxe** extremamente amigável e fácil, sua **curva de aprendizado**, se torna um dos principais motivos para se utilizar.
